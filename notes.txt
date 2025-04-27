@@ -1,0 +1,10 @@
+The OSI model consists of seven layers (from highest to lowest): Application layer, Presentation layer, Session layer,
+Transport layer, Network layer, Data link layer, Physical layer
+^This is theoretical and just used as a reference
+
+OSI model (Open Systems Interconnection) is a conceptual model, characterizing and standardizing communication functions
+of a telecommunication/computing system without regard to its underlying internal structure/technology
+
+This is a description of the Networking subsystem (network stack)
+
+Each logically complete functionality of a networking component is referred to as a layer
