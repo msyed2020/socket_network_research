@@ -12,3 +12,4 @@ Each logically complete functionality of a networking component is referred to a
 Each layer has a specific function/purpose, those functions/purposes do NOT overlap, and data/packets move across
 the layers *bi-directionally*
 
+All layers are stacked together to build a complete networking system.
