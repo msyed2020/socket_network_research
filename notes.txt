@@ -8,3 +8,7 @@ of a telecommunication/computing system without regard to its underlying interna
 This is a description of the Networking subsystem (network stack)
 
 Each logically complete functionality of a networking component is referred to as a layer
+
+Each layer has a specific function/purpose, those functions/purposes do NOT overlap, and data/packets move across
+the layers *bi-directionally*
+
