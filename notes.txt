@@ -13,3 +13,6 @@ Each layer has a specific function/purpose, those functions/purposes do NOT over
 the layers *bi-directionally*
 
 All layers are stacked together to build a complete networking system.
+
+One of the most common examples of OSI model implementation is the TCP/IP network stacks which runs inside of your OS
+
