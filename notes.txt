@@ -28,3 +28,4 @@ Transport layer - UDP, TCP
 Network layer - IPv6, IP
 Data link layer - Ethernet
 
+Using GNS3 for lab work
