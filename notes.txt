@@ -20,3 +20,11 @@ Practical (real) OSI model (aka TCP/IP stack) consists of five layers (from high
 Transport layer, Network layer, Data link layer, and Physical layer. Presentation and Session layers are omitted.
 
 Presentation/Session layers are somewhat implemented in Application and Transport layers
+
+No layer is aware of the layer above or below it
+
+Application layer - HTTP, ping notif, mobile apps
+Transport layer - UDP, TCP
+Network layer - IPv6, IP
+Data link layer - Ethernet
+
