@@ -18,3 +18,5 @@ One of the most common examples of OSI model implementation is the TCP/IP networ
 
 Practical (real) OSI model (aka TCP/IP stack) consists of five layers (from highest to lowest): Application layer,
 Transport layer, Network layer, Data link layer, and Physical layer. Presentation and Session layers are omitted.
+
+Presentation/Session layers are somewhat implemented in Application and Transport layers
